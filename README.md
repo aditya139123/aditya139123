@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=250&section=header&text=Hi,%20I%20am%20Aditya&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Web%20Developer%20%7C%20Building%20Modern%20Web%20Apps&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Hi,%20I%20am%20Aditya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Learning+Full+Stack+Development;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+Learner;Open+Source+Enthusiast" />
