@@ -14,6 +14,10 @@ Passionate about building responsive websites and modern web applications.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Aditya%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=60&descAlign=50"/>
+</p>
+
 ## 👨‍💻 About Me
 
 - 🎓 MCA Student
