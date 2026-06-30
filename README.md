@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:0f172a,100:3b82f6&text=Hi,%20I%20am%20Aditya&fontColor=ffffff&fontSize=44&animation=fadeIn"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Hi,%20I%20am%20Aditya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 </p>
 <p align="center">
