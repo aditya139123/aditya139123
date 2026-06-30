@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Aditya&fontColor=ffffff&fontSize=46&animation=twinkling"/>
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=gradient&customColorList=0,2,24&text=Hi,%20I%20am%20Aditya&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
 
