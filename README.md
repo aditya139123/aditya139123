@@ -59,6 +59,14 @@ Become a skilled Full Stack Web Developer and contribute to open-source projects
 </p>
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aditya139123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+
+---
 
 ## 🚀 Featured Projects
 
