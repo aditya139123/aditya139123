@@ -58,6 +58,28 @@ Become a skilled Full Stack Web Developer and contribute to open-source projects
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio website built using **HTML, CSS, and JavaScript** showcasing my projects, skills, education, and contact information.
+
+🔗 Repository: https://github.com/aditya139123/portfolio-website
+
+---
+
+### 🛒 E-Commerce Website *(Coming Soon)*
+A modern responsive shopping website built with HTML, CSS, JavaScript, and React.
+
+---
+
+### 🌦 Weather App *(Coming Soon)*
+A weather forecasting application using a public Weather API.
+
+---
+
+### ✅ To-Do App *(Coming Soon)*
+A clean and responsive task management application.
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -66,4 +88,8 @@ Become a skilled Full Stack Web Developer and contribute to open-source projects
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+<br><br>
+💙 Happy Coding!
+</p>
