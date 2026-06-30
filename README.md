@@ -58,23 +58,10 @@ Become a skilled Full Stack Web Developer and contribute to open-source projects
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya139123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya139123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditya139123&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya139123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://streak-stats.demolab.com?user=aditya139123&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
