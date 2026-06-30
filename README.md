@@ -47,3 +47,16 @@ Become a skilled Full Stack Web Developer and contribute to open-source projects
 
 - LinkedIn: www.linkedin.com/in/aditya-kumar-7487423a9
 - Email: 139adityakumar@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya139123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya139123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aditya139123&theme=tokyonight&hide_border=true" />
+</p>
