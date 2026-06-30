@@ -20,14 +20,17 @@ Passionate about building responsive websites and modern web applications.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Responsive Web Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
 
 ---
 
